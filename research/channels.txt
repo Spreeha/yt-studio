@@ -1,0 +1,3 @@
+# One YouTube channel per line: @handle, channel ID (UC...) or URL. # starts a comment.
+# Put your own channel first, then 10-20 channels in your niche (a mix of bigger ones and ones around
+# your size). /yt-research reads this list. setup.sh adds your handle from brand.json.

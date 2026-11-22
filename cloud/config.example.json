@@ -1,0 +1,13 @@
+{
+  "HOST": "Your Name",
+  "CHANNEL_NAME": "My Channel",
+  "HANDLE": "@yourhandle",
+  "PROMISE": "One sentence on what your channel helps people with.",
+  "ROLE": "software engineer",
+  "CITY": "Your City",
+  "AUDIENCE": "software engineers (AI coding tools, model releases, big-tech deals, hiring and layoffs, developer tools, career and interview trends)",
+  "REGION_NOTE": ", especially in your country",
+  "TIMEZONE": "Asia/Kolkata",
+  "BRIEF_TIME": "8:30 AM",
+  "DRIVE_FOLDER": "My Channel Studio"
+}

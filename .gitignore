@@ -1,0 +1,15 @@
+.env
+videos/*
+!videos/.gitkeep
+research/*.json
+.claude/vendor/
+studio/node_modules/
+studio/public/*
+!studio/public/.gitkeep
+studio/props/
+client_secret.json
+research/weekly/
+.DS_Store
+research/outliers-*.md
+cloud/config.json
+cloud/out/

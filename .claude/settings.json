@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 tools/:*)",
+      "Bash(python3 .claude/skills/:*)",
+      "Bash(ffmpeg:*)",
+      "Bash(ffprobe:*)",
+      "Bash(npx remotion:*)",
+      "Bash(cd studio && npx remotion:*)"
+    ],
+    "deny": [
+      "Bash(yt-dlp:*)",
+      "Read(.env)",
+      "Read(client_secret.json)",
+      "Read(**/.env)"
+    ]
+  }
+}
